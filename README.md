@@ -9,4 +9,4 @@ fake news detector
 https://www.kaggle.com/datasets/abhinavkrjha/fake-news-challenge
 
 # Run jupyter lab by running this command in terminal:
-jupyter lab
+'jupyter lab'
