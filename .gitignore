@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+.venv-fake-news/
+venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Data / local assets
+data/
+*.csv
+*.tsv
+*.log
+*.json
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.local
+*.pem
+
+# VSCode / IDE settings
+.vscode/
+.idea/
